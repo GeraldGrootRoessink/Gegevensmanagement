@@ -446,18 +446,6 @@
         height="661"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c7bb5cb0af51493d8aa93930310e9a0d">
-      <bounds
-          x="12"
-          y="36"
-          width="205"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-904fbd33a3404d03ad49c213b87d3e53.xml#id-904fbd33a3404d03ad49c213b87d3e53"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3dae7cb34ff94b4a8870c00ce7525c70">
       <bounds
           x="12"
